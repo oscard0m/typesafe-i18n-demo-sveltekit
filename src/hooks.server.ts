@@ -1,3 +1,8 @@
+
+
+
+
+
 import { base } from '$app/paths'
 import type { Locales } from '$i18n/i18n-types.js'
 import { detectLocale, i18n, isLocale } from '$i18n/i18n-util'
